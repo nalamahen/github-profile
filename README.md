@@ -16,6 +16,9 @@ It correctly bundles React in production mode and optimizes the build for the be
 Note:
 redux-promise middleware used to handle the Promise.
 
+Semantic-ui used for styling:
+https://semantic-ui.com/modules/search.html
+
 The actions and reducres are simple functions and they can tested by Jest. 
 The react components can be tested by using 'Enzyme' to make sure every part of the components have rendered. 'Enzyme' is using 3 techniques for testing such as shallow, mount and render.
 
